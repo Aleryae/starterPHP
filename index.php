@@ -2,7 +2,7 @@
 
 ?>
 <!doctype html>
-<html lang="fr">
+<html lang="en">
 
 <head>
 	<!-- Required meta tags -->
